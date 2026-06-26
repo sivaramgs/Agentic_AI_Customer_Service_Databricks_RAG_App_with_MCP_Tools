@@ -13,7 +13,7 @@
 
 ### Project: 
 
-1. Dual-Stream Knowledge Bases
+1. Dual-Source Knowledge Bases
 
 The platform ingests both unstructured and structured data sources to build a holistic context engine:
 
